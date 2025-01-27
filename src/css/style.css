@@ -28,6 +28,7 @@ body {
     padding: 12px;
     gap: 5px;
     position: absolute;
+    border: 2px solid #a67c52;
 }
 
 .cartao.selecionado {
@@ -80,6 +81,8 @@ body {
 
     max-width: 260px;
     align-self: center;
+    border: 2px solid #a67c52;
+    border-radius: 10px;
 
 }
 
