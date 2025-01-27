@@ -10,9 +10,12 @@
 }
 
 @media(max-width: 496px) {
+
+
   .slider-pokemons {
     width: 250px;
-
+    display: flex;
+    justify-content: center;
   }
 
   .imagem-carta {
@@ -28,6 +31,10 @@
     position: absolute;
     bottom: -20%;
 
+  }
+.titulo {
+    display: flex;
+    justify-content: center;
   }
 
   #btn-avancar {
